@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5dd;
+}
+body div {
+    width: 100px;
+    height: 100px;
+    margin-left: 10%;
+    margin-top: 0.5%;
+}
+#kw1 {
+    margin-top: 2%;
+    background-color: rgb(0, 0, 0)
+}
+#kw2 { 
+    background-color: rgba(0, 0, 0, 0.685)
+}
+#kw3 {
+    background-color: rgba(0, 0, 0, 0.356)
+}
+#kw4 {
+    background-color: rgba(0, 0, 0, 0.137)
+}
